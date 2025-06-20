@@ -32,9 +32,6 @@ add_executable(microbenchmark examples/microbenchmark_exp.cpp
         examples/helpers.cpp
         examples/helpers.h)
 
-target_link_libraries(sinewave_example
-        HELIX)
-
 target_link_libraries(microbenchmark
         HELIX)
 
