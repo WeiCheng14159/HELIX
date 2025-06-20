@@ -62,13 +62,7 @@ target_link_libraries(latency_node_a
 
 target_link_libraries(latency_node_b
         HELIX)
-add_executable(sensing_app examples/sensing_app.cpp
-        examples/helpers.cpp
-        examples/helpers.h
-)
 
-target_link_libraries(sensing_app
-        HELIX)
 add_executable(loopback examples/loopback_test.cpp
         examples/helpers.cpp
         examples/helpers.h
