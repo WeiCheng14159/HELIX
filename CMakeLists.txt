@@ -20,10 +20,6 @@ add_library(HELIX
         lib/ldpc_configuration.cpp
 )
 
-add_executable(sinewave_example
-        examples/helpers.h
-        examples/helpers.cpp)
-
 add_executable(throughput_experiments_tx examples/throughput_experiment_tx.cpp
         examples/helpers.cpp
         examples/helpers.h)
