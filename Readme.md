@@ -149,6 +149,7 @@ The `CONFIG_5G_DECODER.m()` sets the configuration parameter of the transmitted 
 
 Requisites: 
 - Vivado 2022.2
+- Xilinx Soft Decision FEC license. It can be obtained free of charge from the Xilinx License Center.
 
 Generate the project by changing the directory in Vivado to the `fpga/` folder and execute the tcl file `HELIX.tcl`
 
