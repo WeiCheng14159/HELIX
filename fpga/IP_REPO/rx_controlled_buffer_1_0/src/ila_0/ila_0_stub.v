@@ -4,7 +4,7 @@
 // Date        : Tue Jan 28 13:44:10 2025
 // Host        : srv-wng-avocado running 64-bit Ubuntu 22.04.5 LTS
 // Command     : write_verilog -force -mode synth_stub
-//               /home/./Vivado/ZCU208/._RT_NEW_DEMAP/IP_REPO/rx_controlled_buffer_1_0/src/ila_0/ila_0_stub.v
+//               /home/rafael/Vivado/ZCU208/MIMORPH_RT_NEW_DEMAP/IP_REPO/rx_controlled_buffer_1_0/src/ila_0/ila_0_stub.v
 // Design      : ila_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xczu48dr-fsvg1517-2-e

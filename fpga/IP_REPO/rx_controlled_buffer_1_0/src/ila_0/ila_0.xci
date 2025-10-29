@@ -5,7 +5,7 @@
     "cell_name": "ila_0",
     "component_reference": "xilinx.com:ip:ila:6.2",
     "ip_revision": "12",
-    "gen_directory": "../../../../TWC_TB_PADOVA_w_10GbE.tmp/rx_controlled_buffer_v1_0_project/rx_controlled_buffer_v1_0_project.gen/sources_1/ip/ila_0",
+    "gen_directory": "../../../../HELIX.tmp/rx_controlled_buffer_v1_0_project/rx_controlled_buffer_v1_0_project.gen/sources_1/ip/ila_0",
     "parameters": {
       "component_parameters": {
         "C_PROBE1023_TYPE": [ { "value": "0", "resolve_type": "user", "format": "long", "usage": "all" } ],
@@ -6264,7 +6264,7 @@
         "IPCONTEXT": [ { "value": "IP_Flow" } ],
         "IPREVISION": [ { "value": "12" } ],
         "MANAGED": [ { "value": "TRUE" } ],
-        "OUTPUTDIR": [ { "value": "../../../../TWC_TB_PADOVA_w_10GbE.tmp/rx_controlled_buffer_v1_0_project/rx_controlled_buffer_v1_0_project.gen/sources_1/ip/ila_0" } ],
+        "OUTPUTDIR": [ { "value": "../../../../HELIX.tmp/rx_controlled_buffer_v1_0_project/rx_controlled_buffer_v1_0_project.gen/sources_1/ip/ila_0" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
         "SHAREDDIR": [ { "value": "." } ],
         "SWVERSION": [ { "value": "2022.2_AR000035739_AR000034905" } ],

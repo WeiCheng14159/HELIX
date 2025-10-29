@@ -4,7 +4,7 @@
 -- Date        : Tue Jan 21 12:54:21 2025
 -- Host        : srv-wng-avocado running 64-bit Ubuntu 22.04.5 LTS
 -- Command     : write_vhdl -force -mode synth_stub
---               /home/./Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_stub.vhdl
+--               /home/rafael/Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_stub.vhdl
 -- Design      : fifo_0
 -- Purpose     : Stub declaration of top-level module interface
 -- Device      : xczu48dr-fsvg1517-2-e

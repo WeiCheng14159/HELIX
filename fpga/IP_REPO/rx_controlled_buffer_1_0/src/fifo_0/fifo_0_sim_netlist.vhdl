@@ -4,7 +4,7 @@
 -- Date        : Tue Jan 21 12:54:21 2025
 -- Host        : srv-wng-avocado running 64-bit Ubuntu 22.04.5 LTS
 -- Command     : write_vhdl -force -mode funcsim
---               /home/./Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_sim_netlist.vhdl
+--               /home/rafael/Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_sim_netlist.vhdl
 -- Design      : fifo_0
 -- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
 --               synthesized. This netlist cannot be used for SDF annotated simulation.

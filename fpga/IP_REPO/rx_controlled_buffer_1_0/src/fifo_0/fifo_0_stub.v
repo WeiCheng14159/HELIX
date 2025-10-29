@@ -4,7 +4,7 @@
 // Date        : Tue Jan 21 12:54:20 2025
 // Host        : srv-wng-avocado running 64-bit Ubuntu 22.04.5 LTS
 // Command     : write_verilog -force -mode synth_stub
-//               /home/./Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_stub.v
+//               /home/rafael/Vivado/ZCU208/ip_repo/rx_controlled_buffer_1_0/src/fifo_0/fifo_0_stub.v
 // Design      : fifo_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xczu48dr-fsvg1517-2-e
